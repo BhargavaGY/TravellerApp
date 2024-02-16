@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896016602477",
+    "project_id": "traveller-65d99",
+    "storage_bucket": "traveller-65d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896016602477:android:b730c8e54ff62b0b527664",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmU8YrIQOAEPKXpN6EwXWy0O1UloK8mgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
